@@ -1,0 +1,14 @@
+/*HEADER*/
+
+.logo {
+	width: 200px;
+}
+
+.anclas {
+	color: $color_1;
+	font-size: 1.3rem;
+	font-family: $font-family_1;
+	&:hover {
+		color: $color_2;
+	}
+}

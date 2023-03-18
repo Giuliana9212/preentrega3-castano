@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Blaka&family=Crimson+Text&family=Grape+Nuts&family=Merriweather+Sans:ital,wght@0,300;1,300&family=Montserrat:wght@100&family=Poppins:wght@100&display=swap");
+
+/*ESTILOS GENERALES*/
+body {
+    background-color: #EBF5FB;
+}
+
+h1 {
+    color: grey;
+    font-size: 1.5rem;
+    font-family: "Merriweather Sans", sans-serif;
+}
+
+h2 {
+    color: grey;
+    font-size: 1.3rem;
+    font-family: "Merriweather Sans", sans-serif;
+}
+
+/*HEADER*/
+.logo {
+    width: 200px;
+}
+
+.anclas {
+    color: grey;
+    font-size: 1.3rem;
+    font-family: "Merriweather Sans", sans-serif;
+}
+
+.anclas:hover {
+    color: pink;
+}
+
+/*CAROUSEL*/
+.imgCarousel {
+    height: 500px;
+    object-fit: cover;
+}
+
+/*CATEGORIAS*/
+.mainCategorias {
+    margin-top: 100px;
+}
+
+.imagenCategorias {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+}
+
+/*BOTONES*/
+.botonCarrito {
+    background-color: pink;
+    color: black;
+}
+
+.botonCarrito:hover {
+    background-color: pink;
+    color: grey;
+}
+
+/*# sourceMappingURL=estilo.css.map */
